@@ -1,0 +1,16 @@
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\bin\Debug\net5.0\ShapeLibDemo1.exe
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\bin\Debug\net5.0\ShapeLibDemo1.deps.json
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\bin\Debug\net5.0\ShapeLibDemo1.runtimeconfig.json
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\bin\Debug\net5.0\ShapeLibDemo1.runtimeconfig.dev.json
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\bin\Debug\net5.0\ShapeLibDemo1.dll
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\bin\Debug\net5.0\ref\ShapeLibDemo1.dll
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\bin\Debug\net5.0\ShapeLibDemo1.pdb
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\obj\Debug\net5.0\ShapeLibDemo1.csproj.AssemblyReference.cache
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\obj\Debug\net5.0\ShapeLibDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\obj\Debug\net5.0\ShapeLibDemo1.AssemblyInfoInputs.cache
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\obj\Debug\net5.0\ShapeLibDemo1.AssemblyInfo.cs
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\obj\Debug\net5.0\ShapeLibDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\obj\Debug\net5.0\ShapeLibDemo1.dll
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\obj\Debug\net5.0\ref\ShapeLibDemo1.dll
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\obj\Debug\net5.0\ShapeLibDemo1.pdb
+C:\Users\Ulag\Desktop\Ibrahim\FH\FH-ULAG-WS-2021\Software Engineering 1\Class_4_Git\ShapeLibDemo1\obj\Debug\net5.0\ShapeLibDemo1.genruntimeconfig.cache
